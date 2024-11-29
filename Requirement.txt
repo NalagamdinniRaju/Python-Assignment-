@@ -1,0 +1,5 @@
+- Retrieve the description text from https://youtu.be/iTmlw3vQPSs using Selenium
+
+- Extract all the timestamps using regex (assuming the format is mm:ss), and save them in a list.
+
+- Store url: str, timestamp_list: str in text file and email it as well.
